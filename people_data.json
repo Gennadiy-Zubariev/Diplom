@@ -1,0 +1,38 @@
+[
+ {
+  "last_name": "Зубарєв",
+  "first_name": "Геннадій",
+  "patronymic": "Андрійович",
+  "full_year": 37,
+  "gender": "m",
+  "birth_date": "20.08.1987",
+  "death_date": null
+ },
+ {
+  "last_name": "Мєліхова",
+  "first_name": "Ніна",
+  "patronymic": "Вікторівна",
+  "full_year": 40,
+  "gender": "f",
+  "birth_date": "21.08.1984",
+  "death_date": null
+ },
+ {
+  "last_name": "Ворон",
+  "first_name": "Боріс",
+  "patronymic": "Петрович",
+  "full_year": 35,
+  "gender": "m",
+  "birth_date": "20.08.1989",
+  "death_date": null
+ },
+ {
+  "last_name": "Руський",
+  "first_name": "Ванька",
+  "patronymic": "Іванович",
+  "full_year": 35,
+  "gender": "m",
+  "birth_date": "01.01.1990",
+  "death_date": "01.01.2025"
+ }
+]
